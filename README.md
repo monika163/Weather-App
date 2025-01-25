@@ -1,5 +1,5 @@
 # Weather App Using Redux, React Js
-
+A weather app that tells weather details based on search query (city, state, etc)
 Deployed link : https://monika163.github.io/WeatherApp/
 
 ## Weather App 
